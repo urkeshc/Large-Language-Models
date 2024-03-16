@@ -1,2 +1,2 @@
 # Large-Language-Models
-LLMs
+Experimenting with large language model APIs. OpenAI, Cohere, Langchain, HuggingFace...
